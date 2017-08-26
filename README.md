@@ -1,6 +1,7 @@
+# Brain tumor detection
+
 Author: Aditya Mhamunkar
 Email: amhamun1@binghamton.edu
-Project: Brain tumor detection
 
 
 ### Steps to execute the program
